@@ -1,4 +1,4 @@
-pip install -r requirements.txt"""Promote or roll back: move the @champion alias to a given version.
+"""Promote or roll back: move the @champion alias to a given version.
 Usage: python src/promote.py 3"""
 import sys
 import mlflow
